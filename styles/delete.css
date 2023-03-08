@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(-45deg, hotpink, lightpink, rgb(164,255,255), lightcyan);
+    background-size: 600% 600%;
+    background: linear-gradient(-45deg, hotpink, lightpink, rgb(164,255,255), lightcyan);
+    height: 100vh;
+    width: auto;
+  }
+  @keyframes gradient {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+   
+  }
+} 
+
+.App_form {
+    background-color: white;
+      max-width: 700px;
+      padding: 37px 37px;
+      margin: 37px auto;
+      box-shadow: 1px 30px 60px 8px rgb(70 72 228 / 7%);
+    } 

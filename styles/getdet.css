@@ -1,0 +1,16 @@
+.bor{
+    margin-top: 50px; 
+   justify-content: center
+   ; 
+   }
+   .fi{
+       padding-top: 250px;
+       padding-bottom: 400px;
+     padding-left: 250px;
+     padding-right: 100px;
+      background-image: url('https://irp-cdn.multiscreensite.com/041830dc/dms3rep/multi/Holi.jpeg');
+      background-repeat: no-repeat;
+      background-size: cover;
+      
+       border: 40px solid black;
+   }
